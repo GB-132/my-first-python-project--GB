@@ -1,7 +1,6 @@
 # 🐍 Python Mini Projects
 
-This repository contains a collection of beginner-friendly Python projects built to practice programming concepts and problem-solving.
-
+ Developed by Bhavana
 ---
 
 ## 🚀 Projects Included
@@ -36,13 +35,13 @@ Contains additional logic and combined functionalities.
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/GB-132/my-first-python-project--GB.git
 ```
 
 2. Navigate to the folder:
 
 ```
-cd YOUR-REPO-NAME
+cd my-first-python-project--GB
 ```
 
 3. Run any file:
