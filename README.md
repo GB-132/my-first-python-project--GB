@@ -62,12 +62,5 @@ python game.py
 
 ---
 
-## 📌 Future Improvements
-
-* Add GUI using Tkinter
-* Improve user interface
-* Add more features
-
----
 
 ⭐ This project is part of my journey to become a Python Developer.
